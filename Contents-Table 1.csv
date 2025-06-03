@@ -1,0 +1,19 @@
+U.S. Energy Information Administration,,,,
+State Energy Data System (SEDS),,,,
+,,,,
+"Release date: June 28, 2024",,,,
+"Next update: June 27, 2025",,,,
+,,,,
+"Primary energy consumption estimates by source, 1960-2022",,,,
+,,,,
+Worksheet Name,Description,Unit,MSN,Data Status
+Coal,Coal total consumption,Billion Btu,CLTCB,2022F
+Natural gas,Natural gas total consumption (excluding supplemental gaseous fuels),Billion Btu,NNTCB,2022F
+Petroleum,"All petroleum products total consumption, excluding biofuels",Billion Btu,PMTCB,2022F
+Nuclear,"Nuclear energy consumed for electricity generation, total",Billion Btu,NUETB,2022F
+Total renewable energy,Renewable energy total consumption,Billion Btu,RETCB,2022F
+,,,,
+Notes and sources:,,,,
+State Energy Data System (SEDS),,,,
+SEDS Notes and documentation,,,,
+SEDS Codes and descriptions,,,,
